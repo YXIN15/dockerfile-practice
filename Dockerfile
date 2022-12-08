@@ -1,1 +1,1 @@
-FROM debian:stable
+FROM jupyter/datascience-notebook
